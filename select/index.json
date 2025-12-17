@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "シンクロ",
+  "base_artist": "Cidergirl",
+  "createdAt": "2025-12-17T16:55:11.788900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "KREVA feat. 古内東子",
+      "has_synced": true,
+      "path": "select/01_シンクロ_KREVA_feat._古内東子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンクロ feat.古内東子",
+      "artist": "KREVA",
+      "has_synced": true,
+      "path": "select/02_シンクロ_feat.古内東子_KREVA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/03_シンクロ_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Synchronized ～シンクロ～",
+      "artist": "Fairies (フェアリーズ)",
+      "has_synced": false,
+      "path": "select/04_Synchronized_~シンクロ~_Fairies_(フェアリーズ).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "ストレイテナー",
+      "has_synced": false,
+      "path": "select/05_シンクロ_ストレイテナー.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シンクロ (2018 Remastered)",
+      "artist": "ストレイテナー",
+      "has_synced": true,
+      "path": "select/06_シンクロ_(2018_Remastered)_ストレイテナー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/07_シンクロ_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/08_シンクロ_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/09_シンクロ_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シンクロ (Live at 宮崎WEATHERKING)",
+      "artist": "秦基博",
+      "has_synced": false,
+      "path": "select/10_シンクロ_(Live_at_宮崎WEATHERKING)_秦基博.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "秦　基博",
+      "has_synced": true,
+      "path": "select/11_シンクロ_秦_基博.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/12_シンクロ_miwa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シンクロ",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/13_シンクロ_川嶋あい.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シンクロ・シティ",
+      "artist": "HYPNOSISMIC -D.R.B- (Matenro)",
+      "has_synced": true,
+      "path": "select/14_シンクロ・シティ_HYPNOSISMIC_-D.R.B-_(Matenro).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンクロ",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_01_シンクロ_サイダーガール.txt"
+    }
+  ]
+}
